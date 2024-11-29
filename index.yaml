@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  att-fiber-gateway-info:
+  - apiVersion: v2
+    created: "2024-11-28T17:44:12.487706176-07:00"
+    description: A Helm chart for the att-fiber-gateway-info
+    digest: 9e85a33d512b934f24e6d955c53196a1217a7bbc26daf638610ec09eda352c73
+    name: att-fiber-gateway-info
+    urls:
+    - https://github.com/edgan/charts/raw/refs/heads/main/att-fiber-gateway-info/att-fiber-gateway-info-0.1.0.tgz
+    version: 0.1.0
+  att-fiber-gateway-outage-detection:
+  - apiVersion: v2
+    created: "2024-11-28T17:44:12.487848079-07:00"
+    description: A Helm chart for deploying the att-fiber-gateway-outage-detection
+    digest: fb1854e886ddbc37f1939bd64f1c53149fe2b7a998605500a26e6845b684df34
+    name: att-fiber-gateway-outage-detection
+    type: application
+    urls:
+    - https://github.com/edgan/charts/raw/refs/heads/main/att-fiber-gateway-outage-detection/att-fiber-gateway-outage-detection-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-28T17:44:12.487453696-07:00"
